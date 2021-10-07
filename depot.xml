@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Depot>
+    <element>
+        <capacity>11.2</capacity>
+        <passengers>78</passengers>
+    </element>
+    <element>
+        <capacity>18.6</capacity>
+        <passengers>0</passengers>
+    </element>
+    <element>
+        <capacity>12.8</capacity>
+        <passengers>36</passengers>
+    </element>
+</Depot>
