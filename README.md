@@ -1,2 +1,2 @@
 # DepotProject
-Тестовое задание на JWD
+Test task for JWD
